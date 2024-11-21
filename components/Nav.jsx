@@ -28,7 +28,7 @@ const Nav = () => {
           height={30}
           className="object-contain"
         /> */}
-        <p className="logo_text">StudyCraft</p>
+        <p className="logo_text" style={{ fontSize: '30px' }}>StudyCraft</p>
       </Link>
 
       {/* Desktop Navigation */}
